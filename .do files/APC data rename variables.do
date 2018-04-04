@@ -1,5 +1,8 @@
 
-/*APC FY17 date. bulk rename */
+/*APC FY17 date. bulk rename 
+This came from Guy Morineau on 1/24 
+
+*/
 
 
 rename eventdate v1

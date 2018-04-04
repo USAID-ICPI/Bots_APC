@@ -4,10 +4,6 @@
 **	Josh Davis, USAID OHA/GH/SEIE/SI
 /**	Background:
 
-*/
-
-/*	NOTES
-
 		*/
 
 cd "C:\Users\GHFP\Documents\ICPI\Bots"
