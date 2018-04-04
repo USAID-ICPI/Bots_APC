@@ -1,5 +1,14 @@
-/*analysis*/
+******************************************************************************
+**	Analysis of APC  data
+**	2/3/18 
+**	Josh Davis, USAID OHA/GH/SEIE/SI
+/**	Background:
 
+Questions came from Kristina Bishop, Jacquie Firth, and Brianna
+
+located here: https://docs.google.com/spreadsheets/d/192V4FTS9Jtv46Tb3fbbSz26Asw3sCa5-DbSavHgM9JQ/edit#gid=0
+
+*/
 	log using "apc_prelim_results_v1.log", replace
 
 	* do first time testers have a higher yield than those who tested previously?
