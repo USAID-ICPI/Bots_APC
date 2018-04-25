@@ -9,4 +9,4 @@ The code (so far) is broken into three files
 -Renaming facility names
 -Analysis
 
-![Alt Text](https://gifer.com/en/2LVQ)
+![](https://gifer.com/en/2LVQ) 
