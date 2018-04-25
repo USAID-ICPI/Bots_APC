@@ -8,3 +8,5 @@ The code (so far) is broken into three files
 -Cleaning
 -Renaming facility names
 -Analysis
+
+![Alt Text] (https://gifer.com/en/2LVQ)
